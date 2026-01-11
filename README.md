@@ -18,9 +18,6 @@ This system can be used for **driver drowsiness detection**, **student alert sys
 
 ## 📁 Project Structure
 
----
-## 📁 Project Structure
-
 ```text
 Eye-Drowsiness-Alert-System/
  ├── eye_alert.py
