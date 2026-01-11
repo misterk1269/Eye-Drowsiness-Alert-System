@@ -19,7 +19,15 @@ This system can be used for **driver drowsiness detection**, **student alert sys
 ## 📁 Project Structure
 
 ---
+## 📁 Project Structure
 
+```text
+Eye-Drowsiness-Alert-System/
+ ├── eye_alert.py
+ ├── alarm2.wav
+ ├── requirements.txt
+ └── README.md
+```
 ## 🛠 Requirements
 - Python 3.8 or above
 - Webcam (in-built or external)
